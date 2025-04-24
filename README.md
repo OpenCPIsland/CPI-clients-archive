@@ -1,1 +1,1 @@
-# CPI-clients-archive
+An archive of the original Club Penguin Island launchers and installers to preserve the legacy of the game. All of the APKs, exes, and dmgs are in this archive. Sadly we only have 1 archive for IPA (iOS). If you have any of the lost versions of the iOS installer, please reach out to us on our [Discord](https://discord.gg/2V6tYJPbpc). We are not Disney, we do not claim or own any copyrights of these assets or files. We do not profit from them either. We are only archiving these builds as some of the older Android APKs are becoming lost media.
